@@ -1,0 +1,11 @@
+# Project: ScamCheck NG | Developer: Qunbuliy
+node_modules/
+.env
+*.db
+*.db-journal
+server/uploads/*
+!server/uploads/.gitkeep
+backups/
+coverage/
+npm-debug.log*
+.DS_Store
